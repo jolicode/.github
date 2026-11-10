@@ -8,4 +8,5 @@ We host most of our open-source projects here on Github and every contribution i
 
 - 🕸️ https://jolicode.com/
 - 🦋 [@JoliCode.com](https://bsky.app/profile/jolicode.com)
+- 💾 [@JoliCode](https://dev-null.sh/@jolicode)
 - 🐦 [@JoliCode](https://twitter.com/JoliCode)
